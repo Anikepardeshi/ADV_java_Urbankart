@@ -1,0 +1,48 @@
+.cardBody{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    row-gap: 2rem;
+}
+
+/* About.jsx */
+
+.info-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.para{
+    line-height: 3rem;
+    padding: 3rem;
+    font-size: 1.5rem;
+    font-weight: 350;
+}
+
+/* ContactPage */
+.headingContainer{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.main-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.contactDiv{
+    border-radius: 50px;
+}
+
+.main-heading{
+    color: rgb(4, 4, 139);
+    font-weight: 500;
+}
+
+.heading{
+    padding-top: 40px;
+    text-align: center;
+}
